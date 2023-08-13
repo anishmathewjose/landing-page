@@ -82,7 +82,7 @@ body{
 }
 
 .hero-text{
-    max-width: 600px;
+    max-width: 500px;
     display: flex;
     flex-direction: column;
 }
@@ -98,8 +98,7 @@ body{
 }
 
 .hero img{
-    max-width: 600px;
-    max-height: auto;
+    max-width: 500px;
 }
 
 .pic-space{
